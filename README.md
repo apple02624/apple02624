@@ -54,7 +54,7 @@ I'm actively seeking collaboration opportunities on:
 </p>
 
 <!--
-**apple02624/apple02624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**apple02624/apple02624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
